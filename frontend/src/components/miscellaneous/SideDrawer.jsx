@@ -10,7 +10,7 @@ import {Avatar} from '@chakra-ui/avatar'
 import {useHistory} from 'react-router-dom';
 import { useDisclosure } from '@chakra-ui/react';
 import ChatLoading from '../ChatLoading';
-import UserListItem from '../userAvatar/UserListItem';
+import UserListItem from '../UserAvatar/UserListItem';
 import axios from 'axios';
 import {Spinner} from "@chakra-ui/react"
 import {Search2Icon} from "@chakra-ui/icons";
